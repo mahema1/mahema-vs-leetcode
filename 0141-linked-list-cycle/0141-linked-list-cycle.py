@@ -19,13 +19,23 @@ class Solution:
         # return False
 
         #time:O(n), space:O(n)
-        seen=set()
-        curr= head
-        while curr:
-            if curr in seen:
+        # seen=set()
+        # curr= head
+        # while curr:
+        #     if curr in seen:
+        #         return True
+        #     seen.add(curr)
+        #     curr= curr.next
+        # return False
+        if not head:
+            return False
+
+        slow, fast= head, head.next
+        while fast and fast.next:
+            slow= slow.next
+            fast= fast.next.next
+            if slow== fast:
                 return True
-            seen.add(curr)
-            curr= curr.next
         return False
     
         
