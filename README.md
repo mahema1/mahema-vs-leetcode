@@ -11,6 +11,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0141-linked-list-cycle) |
@@ -28,10 +29,15 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
