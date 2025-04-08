@@ -2,7 +2,7 @@ class Solution:
     def partitionString(self, s: str) -> int:
         seen= set()
         temp=""
-        count=0
+        count=1
 
         for char in s:
             if char in seen:
@@ -11,8 +11,8 @@ class Solution:
                 temp=""
             seen.add(char)
             temp+=char
-        if seen:
-            count+=1
+        # if seen:
+        #     count+=1
             
         return count
 
