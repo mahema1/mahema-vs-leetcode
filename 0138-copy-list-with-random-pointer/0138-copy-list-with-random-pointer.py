@@ -46,7 +46,7 @@ class Solution:
         old= head
         new= old.next
         newhead= new
-        while old or new:
+        while old:
             old.next= old.next.next
             if new.next:
                 new.next= new.next.next
