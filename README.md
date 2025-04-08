@@ -46,6 +46,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0002-add-two-numbers) |
+| [1585-the-kth-factor-of-n](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Array
 |  |
 | ------- |
@@ -78,4 +79,8 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
