@@ -10,6 +10,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0141-linked-list-cycle](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0146-lru-cache) |
+| [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Linked List
 |  |
 | ------- |
@@ -83,4 +84,12 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1585-the-kth-factor-of-n) |
+## String
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
