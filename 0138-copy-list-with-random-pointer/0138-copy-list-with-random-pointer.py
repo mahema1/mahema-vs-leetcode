@@ -44,9 +44,8 @@ class Solution:
                 curr.next.random= None
             curr= curr.next.next
         old= head
-        if old:
-            new= old.next
-            newhead= new
+        new= old.next
+        newhead= new
         while old or new:
             old.next= old.next.next
             if new.next:
