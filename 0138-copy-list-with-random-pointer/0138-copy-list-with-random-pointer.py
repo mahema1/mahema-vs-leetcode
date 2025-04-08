@@ -9,17 +9,56 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        oldToCopy={None: None}
+        # oldToCopy={None: None}
+        # curr= head
+        # while curr:
+        #     copy= Node(curr.val)
+        #     oldToCopy[curr]= copy
+        #     curr= curr.next
+        # curr= head
+        # while curr:
+        #     copy= oldToCopy[curr]
+        #     copy.next= oldToCopy[curr.next]
+        #     copy.random= oldToCopy[curr.random]
+        #     curr= curr.next
+        # return oldToCopy[head]
+
+        # make a node copy and make the connections
         curr= head
         while curr:
             copy= Node(curr.val)
-            oldToCopy[curr]= copy
-            curr= curr.next
+            temp= curr.next
+            curr.next= copy
+            copy.next= temp
+            curr= temp
+        #assign random
+
         curr= head
         while curr:
-            copy= oldToCopy[curr]
-            copy.next= oldToCopy[curr.next]
-            copy.random= oldToCopy[curr.random]
-            curr= curr.next
-        return oldToCopy[head]
+            if curr.random:
+                curr.next.random= curr.random.next
+            else:
+                curr.next.random= None
+            curr= curr.next.next
+        
+        #remove the connections and put it back
+        
+        old= head
+        if old:
+            new= old.next
+            newhead= new
+            while old or new:
+
+                old.next= old.next.next
+                if new.next:
+                    new.next= new.next.next
+                else:
+                    new.next= None
+                old= old.next
+                new= new.next
+            return newhead
+
+
+            
+
         
