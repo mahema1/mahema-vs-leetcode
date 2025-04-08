@@ -1,16 +1,16 @@
 class Solution:
     def partitionString(self, s: str) -> int:
         seen= set()
-        temp=""
+        # temp=""
         count=1
 
         for char in s:
             if char in seen:
                 seen.clear()
                 count+=1
-                temp=""
+                # temp=""
             seen.add(char)
-            temp+=char
+            # temp+=char
         # if seen:
         #     count+=1
             
