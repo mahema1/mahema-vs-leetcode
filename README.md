@@ -28,6 +28,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0143-reorder-list) |
@@ -52,6 +53,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -122,6 +124,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
