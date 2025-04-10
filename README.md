@@ -124,6 +124,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -132,6 +133,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -172,4 +174,12 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
