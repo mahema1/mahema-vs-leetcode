@@ -126,6 +126,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -142,10 +143,12 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -201,6 +204,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
