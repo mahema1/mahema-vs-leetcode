@@ -68,6 +68,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0215-kth-largest-element-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
@@ -245,6 +246,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0199-binary-tree-right-side-view](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -268,5 +270,6 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
