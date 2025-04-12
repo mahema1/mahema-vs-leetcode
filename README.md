@@ -73,6 +73,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1127-last-stone-weight) |
 | [2681-put-marbles-in-bags](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Binary Search
@@ -248,6 +249,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0226-invert-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0226-invert-binary-tree) |
 | [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -272,4 +274,5 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0200-number-of-islands](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
