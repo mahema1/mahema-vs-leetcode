@@ -124,6 +124,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1127-last-stone-weight) |
@@ -257,6 +258,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0547-number-of-provinces](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -275,6 +277,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
 | [0547-number-of-provinces](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -315,9 +318,14 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0207-course-schedule](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
