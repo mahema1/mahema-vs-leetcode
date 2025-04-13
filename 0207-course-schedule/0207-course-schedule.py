@@ -6,22 +6,22 @@ class Solution:
             g[a].append(b)
         
         unvisited= 0
-        visiting =1
-        visited=2
-        states=[unvisited] * numCourses 
+        visiting=set()
+        visited=set()
+        # states=[unvisited] * numCourses 
 
         def dfs(node):
-            state= states[node]
-            if state== visited: return True
+            # state= states[node]
+            if node in visited: return True
 
-            if state== visiting: return False
+            if node in visiting: return False
 
-            states[node]= visiting
+            visiting.add(node)
 
             for nei in g[node]:
                 if not dfs(nei):
                     return False
-            states[node]= visited
+            visited.add(node)
             return True
         
         for i in range(numCourses):
