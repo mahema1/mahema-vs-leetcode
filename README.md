@@ -12,6 +12,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0141-linked-list-cycle](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -68,6 +69,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0252-meeting-rooms) |
@@ -104,6 +106,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0023-merge-k-sorted-lists](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -196,6 +199,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0056-merge-intervals](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -220,6 +224,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
