@@ -41,6 +41,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0295-find-median-from-data-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1894-merge-strings-alternately](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1894-merge-strings-alternately) |
 | [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
 |  |
