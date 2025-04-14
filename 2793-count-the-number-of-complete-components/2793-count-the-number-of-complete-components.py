@@ -22,8 +22,8 @@ class Solution:
             component= dfs(i, [])
             flag= True
             for v in component:
-                if len(component)-1 != len(adj[v]):
-                    flag=False
+                if len(component)-1!= len(adj[v]): # to check if the nodes are connected
+                    flag=False # nodes== n-1 edges coming out of it
                     break
             if flag:
                 res+=1
