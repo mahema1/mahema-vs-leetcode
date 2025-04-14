@@ -140,6 +140,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0020-valid-parentheses) |
 | [0696-count-binary-substrings](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0696-count-binary-substrings) |
 | [1894-merge-strings-alternately](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1894-merge-strings-alternately) |
@@ -328,4 +329,8 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
