@@ -71,6 +71,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -99,6 +100,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
@@ -353,4 +355,8 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
