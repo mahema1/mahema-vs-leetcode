@@ -72,6 +72,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0088-merge-sorted-array) |
@@ -362,5 +363,6 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0039-combination-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
