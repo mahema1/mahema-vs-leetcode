@@ -265,6 +265,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,6 +287,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## String Matching
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -327,6 +330,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
+| [2793-count-the-number-of-complete-components](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
