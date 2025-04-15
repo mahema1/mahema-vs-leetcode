@@ -97,6 +97,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1036-rotting-oranges) |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1127-last-stone-weight](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1127-last-stone-weight) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2681-put-marbles-in-bags](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -384,4 +385,8 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0078-subsets](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 <!---LeetCode Topics End-->
