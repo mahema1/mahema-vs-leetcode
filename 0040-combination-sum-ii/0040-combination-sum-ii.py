@@ -1,7 +1,7 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         res=[]
-        candidates.sort(key= lambda x: x)
+        candidates.sort(key= lambda x: x) # so that we will have the duplicates together and we will take care of them later in our dfs
         def dfs(i, cur, total):
             if total == target:
                 res.append(cur.copy())
