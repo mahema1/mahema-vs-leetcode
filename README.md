@@ -17,6 +17,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Linked List
 |  |
@@ -96,6 +97,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1127-last-stone-weight) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2681-put-marbles-in-bags](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Binary Search
 |  |
@@ -166,6 +168,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2681-put-marbles-in-bags](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Tree
@@ -254,6 +257,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
