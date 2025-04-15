@@ -155,6 +155,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0079-word-search) |
 | [0696-count-binary-substrings](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0696-count-binary-substrings) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
@@ -317,6 +318,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Union Find
@@ -367,6 +369,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0046-permutations) |
