@@ -17,6 +17,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Linked List
@@ -192,6 +193,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Data Stream
 |  |
 | ------- |
@@ -287,6 +290,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
