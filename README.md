@@ -75,6 +75,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0046-permutations](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -154,6 +155,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0079-word-search) |
 | [0696-count-binary-substrings](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0696-count-binary-substrings) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
 | [1894-merge-strings-alternately](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1894-merge-strings-alternately) |
@@ -258,6 +260,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0101-symmetric-tree) |
@@ -328,6 +331,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
@@ -367,5 +371,6 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0040-combination-sum-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
