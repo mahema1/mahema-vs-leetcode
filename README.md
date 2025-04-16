@@ -75,6 +75,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0039-combination-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0079-word-search) |
@@ -342,6 +343,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0200-number-of-islands) |
@@ -389,4 +391,8 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
