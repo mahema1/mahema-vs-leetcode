@@ -6,6 +6,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -75,6 +76,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0040-combination-sum-ii) |
