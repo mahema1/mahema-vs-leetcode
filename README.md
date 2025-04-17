@@ -14,6 +14,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0146-lru-cache](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -68,6 +69,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0009-palindrome-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Array
@@ -96,6 +98,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0735-asteroid-collision) |
@@ -122,6 +125,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0146-lru-cache](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
@@ -401,4 +405,8 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0054-spiral-matrix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0735-asteroid-collision) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
