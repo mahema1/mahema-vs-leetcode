@@ -39,6 +39,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0088-merge-sorted-array) |
@@ -81,6 +82,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0040-combination-sum-ii) |
@@ -192,6 +194,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0605-can-place-flowers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0605-can-place-flowers) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
