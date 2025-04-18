@@ -109,6 +109,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1127-last-stone-weight) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2681-put-marbles-in-bags](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Binary Search
