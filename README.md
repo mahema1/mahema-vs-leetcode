@@ -48,6 +48,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0151-reverse-words-in-a-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -100,6 +101,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0238-product-of-array-except-self](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
