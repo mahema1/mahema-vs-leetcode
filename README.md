@@ -195,6 +195,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0392-is-subsequence](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0696-count-binary-substrings) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1894-merge-strings-alternately) |
 | [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
@@ -439,6 +440,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
 | ------- |
