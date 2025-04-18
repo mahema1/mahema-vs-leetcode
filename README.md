@@ -20,6 +20,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -57,6 +58,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0696-count-binary-substrings](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
@@ -119,6 +121,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [1108-analyze-user-website-visit-pattern](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2681-put-marbles-in-bags](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Binary Search
@@ -274,6 +277,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2681-put-marbles-in-bags](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Quickselect
 |  |
