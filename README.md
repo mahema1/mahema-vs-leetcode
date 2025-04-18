@@ -123,6 +123,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [1127-last-stone-weight](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2681-put-marbles-in-bags](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Binary Search
@@ -306,6 +307,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
+| [1833-find-the-highest-altitude](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Depth-First Search
 |  |
 | ------- |
