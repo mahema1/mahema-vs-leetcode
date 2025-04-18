@@ -102,6 +102,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0735-asteroid-collision) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -183,6 +184,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0605-can-place-flowers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0605-can-place-flowers) |
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
