@@ -97,6 +97,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0286-walls-and-gates) |
@@ -291,6 +292,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
 ## Depth-First Search
 |  |
