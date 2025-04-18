@@ -115,6 +115,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0605-can-place-flowers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0735-asteroid-collision) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1036-rotting-oranges) |
@@ -307,6 +308,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0724-find-pivot-index](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Depth-First Search
 |  |
