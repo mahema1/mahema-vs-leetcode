@@ -73,6 +73,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0020-valid-parentheses](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0735-asteroid-collision) |
+| [2470-removing-stars-from-a-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
 |  |
@@ -449,6 +451,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0054-spiral-matrix](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0735-asteroid-collision) |
+| [2470-removing-stars-from-a-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Randomized
 |  |
 | ------- |
