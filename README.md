@@ -41,6 +41,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0328-odd-even-linked-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0143-reorder-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0735-asteroid-collision) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
