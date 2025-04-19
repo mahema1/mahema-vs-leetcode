@@ -15,5 +15,4 @@ class Solution:
             slow= slow.next
         prev.next= prev.next.next
         return head
-
-        
+       
