@@ -76,6 +76,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0009-palindrome-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
