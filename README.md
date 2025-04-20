@@ -359,6 +359,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0572-subtree-of-another-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
+| [0871-keys-and-rooms](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -385,6 +386,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0547-number-of-provinces](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
+| [0871-keys-and-rooms](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -436,6 +438,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0744-network-delay-time) |
+| [0871-keys-and-rooms](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2793-count-the-number-of-complete-components](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
