@@ -244,6 +244,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -255,6 +256,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -276,6 +278,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
