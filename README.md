@@ -9,6 +9,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0001-two-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -111,6 +112,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
@@ -410,6 +412,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
