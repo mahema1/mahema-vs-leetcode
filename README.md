@@ -22,6 +22,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0778-reorganize-string](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0778-reorganize-string) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -140,6 +141,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [1108-analyze-user-website-visit-pattern](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -313,6 +315,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0948-sort-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2681-put-marbles-in-bags](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Quickselect
@@ -500,4 +503,5 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
