@@ -3,13 +3,14 @@ class Solution:
         intervals.sort(key= lambda x:x[0])
         if not intervals:
             return None
-        output=[intervals[0]]
+        output=[intervals[0]]# help in comparing the next ones
         
 
         for start, end in intervals[1:]:
-            lastEnd=output[-1][1]
+            lastEnd=output[-1][1] # end time of the last interval
 
             if start <= lastEnd:
+                '''if we had [1,5][2,4] we need to take the max'''
                 output[-1][1]= max(lastEnd, end)
             else:
                 output.append([start, end])
