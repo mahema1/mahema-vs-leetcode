@@ -16,6 +16,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0142-linked-list-cycle-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -120,6 +121,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0169-majority-element](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -482,6 +484,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
