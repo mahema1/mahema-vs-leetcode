@@ -94,6 +94,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0002-add-two-numbers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1585-the-kth-factor-of-n) |
@@ -427,6 +428,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -517,4 +519,8 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | ------- |
 | [0948-sort-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
