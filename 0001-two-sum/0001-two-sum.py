@@ -7,23 +7,23 @@ class Solution:
         # 9-15==-6
 
         # {2:0, 7:1, 11:2, 15:3}
-        # hashmap={}
+        hashmap={} 
+        for i in range(len(nums)):
+            hashmap[nums[i]]=i
+        print(hashmap)
+
+        for x in range(len(nums)):
+            y= target-nums[x]
+            if y in hashmap and hashmap[y]!= x: # no duplicates
+                return [x, hashmap[y]]
+
+        # hashmap = {}
         # for i in range(len(nums)):
-        #     hashmap[nums[i]]=i
-        # print(hashmap)
+        #     hashmap[target - nums[i]] = i
 
-        # for x in range(len(nums)):
-        #     y= target-nums[x]
-        #     if y in hashmap and hashmap[y]!= x:
-        #         return [x, hashmap[y]]
-
-        hashmap = {}
-        for i in range(len(nums)):
-            hashmap[target - nums[i]] = i
-
-        for i in range(len(nums)):
-            if nums[i] in hashmap and hashmap[nums[i]] != i:
-                return [i, hashmap[nums[i]]]
+        # for i in range(len(nums)):
+        #     if nums[i] in hashmap and hashmap[nums[i]] != i:
+        #         return [i, hashmap[nums[i]]]
         
 
                 #time: O(n) space: O(n)
