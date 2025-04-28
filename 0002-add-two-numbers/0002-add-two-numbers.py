@@ -8,7 +8,7 @@ class Solution:
         dummy= ListNode()
         curr= dummy
         carry=0
-        while l1 or l2 or carry:
+        while l1 or l2 or carry:# what if i had 8+9-- carry is 1, i need to add it.
             v1= l1.val if l1 else 0 
             v2= l2.val if l2 else 0
             val= v1+v2+carry
@@ -17,35 +17,8 @@ class Solution:
             val= val%10
             curr.next= ListNode(val)
 
-            curr=curr.next 
-            l1= l1.next if l1 else None
+            curr=curr.next # move my pointer
+            l1= l1.next if l1 else None #move, if theres nothing then none, anyways it will get checked in (the while)
             l2= l2.next if l2 else None
 
         return dummy.next
-
-
-        # dummy= ListNode()
-        # curr= dummy
-        # carry=0
-
-        # while l1 or l2:
-        #     v1= l1.val if l1 else 0
-        #     v2= l2.val if l2 else 0
-        #     val= v1+v2+carry
-
-        #     carry= val//10
-        #     val= val%10
-        #     curr.next= ListNode(val)
-
-        #     curr= curr.next
-        #     l1= l1.next if l1 else None
-        #     l2= l2.next if l2 else None
-
-        # if carry>0:
-        #     curr.next= ListNode(carry)
-        # return dummy.next
-
-
-
-
-        
