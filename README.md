@@ -98,6 +98,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0380-insert-delete-getrandom-o1](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2383-add-two-integers](https://github.com/mahema1/mahema-vs-leetcode/tree/master/2383-add-two-integers) |
 ## Array
 |  |
 | ------- |
