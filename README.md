@@ -141,6 +141,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0695-max-area-of-island](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/mahema1/mahema-vs-leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -435,6 +436,7 @@ Daily LeetCode grind- tracking my journey to sharpen problem-solving skills.
 | [0300-longest-increasing-subsequence](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/mahema1/mahema-vs-leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Union Find
 |  |
 | ------- |
