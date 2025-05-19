@@ -17,4 +17,4 @@ class Solution:
                     continue
         return True if not stack else False
 
-        
+       
